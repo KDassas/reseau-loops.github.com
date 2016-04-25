@@ -1,0 +1,11 @@
+.chamo*
+_site
+*.aux
+*.log
+*.tns
+*.out
+tools/*.cm*
+tools/*.o
+tools/gen_interviews
+_config_local.yml
+
